@@ -19,10 +19,10 @@ My Bachelor's degree from Fort Hays State University (FHSU) focused on HTML, CSS
 
 I continued my education at FHSU with a Master's degree in Web Development, wherein I developed a website for a <a href="http://sunyisgym.com">local gym and dojang</a>, and made a capstone research project on analyzing the methods and practices that make apps and online products effective at forming addictive/habitual behaviors.
 
-Presently, I am working on learning C++ for Unreal Engine and simulation programs, with some occasional Python projects for exploring the Data Science areas of coding. I am balancing this with my full-time position, so 
+Presently, I am working on learning C++ for Unreal Engine and emulation/simulation programs, with some occasional Python projects for exploring the Data Science areas of coding. I am balancing this with my full-time position, so 
 progress is slower than I'd like, but the challenge and excitement of trying and learning new things is the best motivator for me!
 
-![Static Badge](https://img.shields.io/badge/Repo-CPU_Simulate-green)
+<a href="github.com/CChessmore/CPUEmulate">![Static Badge](https://img.shields.io/badge/Repo-CPUEmulate-green)</a>
 
 My goal is to transition from System Admin to Software Engineer, and work towards becoming the best developer I can be. There's a very long way for me to go, but having a goal and working towards it is all the drive I need to be confident in my success!
 
