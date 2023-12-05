@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋Greetings! 
 
 <!--
 **CChessmore/CChessmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Greetings! I am Conner Chessmore, a developer interested in a wide array of concepts and ideas in the programming realm.
+I am Conner Chessmore, a developer interested in a wide array of concepts and ideas in the programming realm.
 My Bachelor's degree from Fort Hays State University (FHSU) focused on HTML, CSS, JavaScript, Python, and PHP. This included looks into functional programming, using objects and frameworks to streamline the development process, and when to use functional versus object-oriented approaches.
 
 I continued my education at FHSU with a Master's degree in Web Development, wherein I developed a website for a <a href="http://sunyisgym.com">local gym and dojang</a>, and made a capstone research project on analyzing the methods and practices that make apps and online products effective at forming addictive/habitual behaviors.
