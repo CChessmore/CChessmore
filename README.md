@@ -22,7 +22,7 @@ I continued my education at FHSU with a Master's degree in Web Development, wher
 Presently, I am working on learning C++ for Unreal Engine and simulation programs, with some occasional Python projects for exploring the Data Science areas of coding. I am balancing this with my full-time position, so 
 progress is slower than I'd like, but the challenge and excitement of trying and learning new things is the best motivator for me!
 
-![Static Badge]((https://img.shields.io/badge/Repo-CPU_Simulate-green))
+![Static Badge](https://img.shields.io/badge/Repo-CPU_Simulate-green)
 
 My goal is to transition from System Admin to Software Engineer, and work towards becoming the best developer I can be. There's a very long way for me to go, but having a goal and working towards it is all the drive I need to be confident in my success!
 
