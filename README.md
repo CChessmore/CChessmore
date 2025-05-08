@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 I am Conner Chessmore, a developer interested in a wide array of concepts and ideas in the programming realm.
 My Bachelor's degree from Fort Hays State University (FHSU) focused on HTML, CSS, JavaScript, Python, and PHP. This included looks into functional programming, using objects and frameworks to streamline the development process, and when to use functional versus object-oriented approaches.
 
-I continued my education at FHSU with a Master's degree in Web Development, wherein I developed a website for a <a href="http://sunyisgym.com">local gym and dojang</a>, and made a capstone research project on analyzing the methods and practices that make apps and online products effective at forming addictive/habitual behaviors.
+I continued my education at FHSU with a Master's degree in Web Development, wherein I developed a website for a local gym and made a capstone research project on analyzing the methods and practices that make apps and online products effective at forming addictive/habitual behaviors.
 
-Presently, I am working on learning C++ for Unreal Engine and emulation/simulation programs, with some occasional Python projects for exploring the Data Science areas of coding. I am balancing this with my full-time position as a System Administrator with Great Plains Health, so 
-progress is slower than I'd like, but the challenge and excitement of trying and learning new things is the best motivator for me!
+Presently, I am working on learning C++ and Python, with some additional exploration of the Data Science areas of coding. I am balancing this with my full-time position as a System Administrator with Great Plains Health, as well as co-owning and operating a local game store in town!
 
 <a href="github.com/CChessmore/CPUEmulate">![Static Badge](https://img.shields.io/badge/Repo-CPUEmulate-green)</a>
 
-My goal is to transition from System Admin to Software Engineer, and work towards becoming the best developer I can be. There's a very long way for me to go, but having a goal and working towards it is all the drive I need to be confident in my success!
+My goal is to transition from System Admin to Software Engineer.
 
 <a href="https://linkedin.com/in/conner-chessmore">![Static Badge](https://img.shields.io/badge/LinkedIn-Conner%20Chessmore-blue)</a>
 
