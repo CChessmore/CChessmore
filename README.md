@@ -1,29 +1,38 @@
-### 👋Greetings! 
+# 👋 Hi, I'm Conner Chessmore
 
-<!--
-**CChessmore/CChessmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Engineer in progress** with a background in systems administration and a focus on building practical, user-oriented tools. I enjoy working in Python, C++, and the web stack to automate workflows and create usable applications.
 
-Here are some ideas to get you started:
+- 💼 **Currently:** Systems Administrator @ Great Plains Health  
+- 🎓 MS in Web & Mobile App Development – Fort Hays State University  
+- ⚙️ Technical stack: Python, C++, PowerShell, SQL, Git, REST APIs, AWS  
+- 📌 Focus: Backend systems, API integrations, personal tooling, and game utilities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am Conner Chessmore, a developer interested in a wide array of concepts and ideas in the programming realm.
-My Bachelor's degree from Fort Hays State University (FHSU) focused on HTML, CSS, JavaScript, Python, and PHP. This included looks into functional programming, using objects and frameworks to streamline the development process, and when to use functional versus object-oriented approaches.
+## 🚀 Featured Projects
 
-I continued my education at FHSU with a Master's degree in Web Development, wherein I developed a website for a local gym and made a capstone research project on analyzing the methods and practices that make apps and online products effective at forming addictive/habitual behaviors.
+### 🎲 [40kListBuilder](https://github.com/CChessmore/40kListBuilder)
+> A unit list-building interface for **Warhammer 40K**, built in React + Supabase. Inspired by tools like NewRecruit, it features a modular 3-panel layout for unit selection, list categorization, and unit detail views.  
+> **Tech Stack:** React, TailwindCSS, Supabase, Node.js, PostgreSQL  
+> **Status:** In development — core layout, schema design, and data model structure in place.
 
-Presently, I am working on learning C++ and Python, with some additional exploration of the Data Science areas of coding. I am balancing this with my full-time position as a System Administrator with Great Plains Health, as well as co-owning and operating a local game store in town!
+---
 
-<a href="github.com/CChessmore/CPUEmulate">![Static Badge](https://img.shields.io/badge/Repo-CPUEmulate-green)</a>
+### 🧠 [CPUEmulate](https://github.com/CChessmore/CPUEmulate)
+> A partial emulator for the 6502 CPU written in C++. Implements instruction decoding, register operations, and direct memory access. Built to deepen systems-level knowledge and bitwise logic skills.  
+> **Tech Stack:** C++, STL, bitwise ops
 
-My goal is to transition from System Admin to Software Engineer.
+---
 
-<a href="https://linkedin.com/in/conner-chessmore">![Static Badge](https://img.shields.io/badge/LinkedIn-Conner%20Chessmore-blue)</a>
+### 🛠️ Skills Summary
 
+| Area        | Tools & Technologies |
+|-------------|----------------------|
+| Languages   | Python, C++, PowerShell, SQL |
+| Dev Tools   | Git, REST APIs, Docker (basic), Node.js |
+| Platforms   | Windows Server, AWS, Hyper-V/VMware |
+| Interests   | Full-stack development, automation, game tools |
+
+---
+
+📫 Connect on [LinkedIn](https://linkedin.com/in/conner-chessmore)
+
+🎯 Goal: Transition into a **Junior Software Engineer** role where I can build tools that matter.
