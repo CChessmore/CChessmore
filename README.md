@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Conner Chessmore
 
-🎯 **Software Engineer in progress** with a background in systems administration and a focus on building practical, user-oriented tools. I enjoy working in Python, C++, and the web stack to automate workflows and create usable applications.
+🎯 **Software Engineer in progress** with a background in systems administration and a focus on building practical, user-oriented tools. I enjoy working in Python, C++, and different web stacks to automate workflows and create usable applications.
 
 - 💼 **Currently:** Systems Administrator @ Great Plains Health  
 - 🎓 MS in Web & Mobile App Development – Fort Hays State University  
-- ⚙️ Technical stack: Python, C++, PowerShell, SQL, Git, REST APIs, AWS  
+- ⚙️ Technical stack: Python, C++, PowerShell, SQL, Git, REST APIs  
 - 📌 Focus: Backend systems, API integrations, personal tooling, and game utilities  
 
 ## 🚀 Featured Projects
